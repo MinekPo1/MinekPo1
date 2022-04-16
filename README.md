@@ -4,5 +4,5 @@ Hi! I am Lily: mainly a python developer, but I also have a bit of experience in
 
 I have created a few esoteric programing languages:
 
-- [SaHuTOrEPoL](www.github.com/MinekPo1/SaHuTOrEPoL)
-- [FuSS](www.github.com/MinekPo1/FuSS)
+- [SaHuTOrEPoL](https://www.github.com/MinekPo1/SaHuTOrEPoL)
+- [FuSS](https://www.github.com/MinekPo1/FuSS)
